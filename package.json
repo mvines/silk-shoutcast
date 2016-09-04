@@ -1,0 +1,14 @@
+{
+  "name": "silk-shoutcast",
+  "scripts": {
+    "silk-build": "silk-buildjs ."
+  },
+  "dependencies": {
+    "babel-preset-silk-node4": "^1.0.0",
+    "icecast": "^1.3.1",
+    "silk": "^1.0.0",
+    "silk-buildjs": "^1.0.0",
+    "silk-log": "^1.0.0",
+    "webpack": "^1.13.2"
+  }
+}
